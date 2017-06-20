@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Memos</string>
+    <string name="shortcut">Test shortcut</string>
+
+    <string name="tab_notes">Notes</string>
+    <string name="tab_dashboard">Dashboard</string>
+    <string name="tab_notifications">Notifications</string>
+
+    <string name="menu_notes_edit">Edit</string>
+
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+</resources>
