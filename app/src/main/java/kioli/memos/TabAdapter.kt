@@ -3,6 +3,7 @@ package kioli.memos
 import android.support.v4.app.Fragment
 import android.support.v4.app.FragmentManager
 import android.support.v4.app.FragmentStatePagerAdapter
+import kioli.memos.section.notes.ViewSpeechToText
 
 class TabAdapter(fm: FragmentManager) : FragmentStatePagerAdapter(fm) {
 
