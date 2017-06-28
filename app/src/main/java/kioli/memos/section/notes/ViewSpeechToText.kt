@@ -14,7 +14,7 @@ import android.view.ViewGroup
 import kioli.memos.R
 import kioli.memos.db.Note
 import kioli.memos.db.NoteDataSource
-import kioli.memos.toastShort
+import kioli.memos.extension.toastShort
 import kotlinx.android.synthetic.main.view_text_to_speech.*
 import java.util.*
 import kotlin.collections.ArrayList

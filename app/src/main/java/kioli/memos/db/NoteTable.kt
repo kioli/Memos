@@ -1,7 +1,7 @@
 package kioli.memos.db
 
 import android.database.sqlite.SQLiteDatabase
-import kioli.memos.transaction
+import kioli.memos.extension.transaction
 
 object NoteTable {
 

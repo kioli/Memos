@@ -3,7 +3,7 @@ package kioli.memos.db
 import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
-import kioli.memos.transaction
+import kioli.memos.extension.transaction
 
 class DbHelper(context: Context) : SQLiteOpenHelper(context, DbHelper.DATABASE_NAME, null, DbHelper.DATABASE_VERSION) {
 

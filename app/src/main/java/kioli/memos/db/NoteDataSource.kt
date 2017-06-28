@@ -2,8 +2,8 @@ package kioli.memos.db
 
 import android.content.ContentValues
 import android.content.Context
-import kioli.memos.database
-import kioli.memos.transaction
+import kioli.memos.extension.database
+import kioli.memos.extension.transaction
 
 class NoteDataSource {
 
